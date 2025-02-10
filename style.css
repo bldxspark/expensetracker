@@ -58,7 +58,7 @@ button:hover {
     font-size: large;
 }
 #expense_cont{
-    background-color:rgb(53, 42, 58);
+    background-color:gray;
     padding: 10px;
     border-radius: 4px;
     margin-top: 10px;
@@ -108,7 +108,7 @@ button:hover {
         width: auto;
     }
     #expense_cont{
-        background-color:rgb(40, 38, 40);
+        background-color:gray;
         padding-top: 0px;
         padding: 0px 10px 0px 10px;
         border-radius: 10px;
