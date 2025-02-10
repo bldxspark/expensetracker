@@ -13,6 +13,10 @@ Frontend: HTML, CSS, JavaScript (or React)
 Backend: Node.js, Express (if applicable)
 Database: MongoDB/MySQL (if applicable)
 
+Screenshots:
+![Screenshot 2025-02-10 190256](https://github.com/user-attachments/assets/40c5cc80-fe10-434f-9790-5ec6dde969ef)
+![Screenshot 2025-02-10 190221](https://github.com/user-attachments/assets/5d5f1efd-573b-418e-8fb0-dc6db0794b55)
+
 Setup 🚀
 Clone the repository:
 git clone https://github.com/bldxspark/expensetracker.git  
